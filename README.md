@@ -1,5 +1,7 @@
 # Reading Computer Vision Paper
 
+### @nabang1010
+
 ## Object Detection
 
 - [ ] R-CNN 
@@ -40,3 +42,7 @@
 - [ ] DSOD
 - [ ] Mask R-CNN
 - [ ] YOLOv3
+
+### Reference
+* [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
+
