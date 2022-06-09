@@ -4,7 +4,7 @@
 
 ## Object Detection
 
-- [ ] R-CNN 
+- [ ] R-CNN [paper](https://arxiv.org/pdf/1311.2524v5.pdf)
 - [ ] OverFeat
 - [ ] MultiBox
 - [ ] SPP-Net
