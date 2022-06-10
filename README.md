@@ -41,7 +41,8 @@
 - [ ] RentinaNet
 - [ ] DSOD
 - [ ] Mask R-CNN
-- [ ] YOLOv3
+- [ ] YOLOv3 [paper](https://arxiv.org/pdf/1804.02767v1.pdf)
+- [ ] YOLOv4 [paper](https://arxiv.org/pdf/2004.10934v1.pdf)
 
 ### Reference
 * [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
